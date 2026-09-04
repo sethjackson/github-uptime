@@ -1,4 +1,4 @@
-# Github Uptime
+# Github uptime
 
 This is a silly site created for silly purposes.
 You should not rely on it and it may stop working at any time.
